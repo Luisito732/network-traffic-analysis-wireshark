@@ -36,3 +36,7 @@ Repeated DNS requests to uncommon domains can indicate:
 
 ## Disclaimer
 This project is for educational purposes only using publicly available datasets.
+
+## Screenshot
+
+![DNS Analysis](dns-analysis.png)
