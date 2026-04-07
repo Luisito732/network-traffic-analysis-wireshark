@@ -11,8 +11,7 @@ Analyze DNS traffic captured in a PCAP file to identify abnormal or suspicious n
 
 ## Tools Used
 - Wireshark
-- - PCAP file sourced from [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
- 
+- PCAP file sourced from [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
   - ---
 
   ## Methodology
